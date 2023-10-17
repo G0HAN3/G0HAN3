@@ -1,4 +1,4 @@
-![logo](https://github.com/G0HAN3/G0HAN3/blob/main/git2.png)
+![logo](https://github.com/G0HAN3/G0HAN3/blob/main/banner.png)
 
 !![Visitor Count](https://profile-counter.glitch.me/{G0HAN3}/count.svg)
 
