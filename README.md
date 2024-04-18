@@ -1,6 +1,6 @@
 ![logo](https://github.com/G0HAN3/G0HAN3/blob/main/banner.png)
 
-!![Visitor Count](https://profile-counter.glitch.me/{G0HAN3}/count.svg)
+# Profile Views: ![Visitor Count](https://profile-counter.glitch.me/{G0HAN3}/count.svg)
 
 # 💫 About Me:
 Interested in Web Development and Blockchain Technology<br>Contact me on imsahil444@gmail.com
@@ -14,6 +14,6 @@ Interested in Web Development and Blockchain Technology<br>Contact me on imsahil
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=G0HAN3&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=G0HAN3&icon=5&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=G0HAN3&icon=5&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
