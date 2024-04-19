@@ -1,6 +1,7 @@
 ![logo](https://github.com/G0HAN3/G0HAN3/blob/main/banner.png)
 
-# Profile Views: ![Visitor Count](https://profile-counter.glitch.me/{G0HAN3}/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=G0HAN3&label=Profile%20views&color=0e75b6&style=flat" alt="G0HAN3" /> </p>
+
 
 # 💫 About Me:
 Interested in Web Development and Blockchain Technology<br>Contact me on imsahil444@gmail.com
