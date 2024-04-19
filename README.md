@@ -9,8 +9,6 @@
 ## 🌐 Connect with me on:
 <a href="https://www.instagram.com/sahil_sing_h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diwakar-kumar-184949182" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sahil-singh-aa6a56249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwakar-kumar-184949182" height="30" width="40" /></a>
-<a href="https://leetcode.com/G0HAN/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="diwakar_1593" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/g0han3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="g0han3" height="30" width="40" /></a>
 
 
 
