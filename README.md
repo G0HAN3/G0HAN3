@@ -8,7 +8,7 @@
 #### • Contact me on imsahil444@gmail.com
 
 
-## 🌐 Connect with me on:
+# 🌐 Connect with me on:
 <a href="https://www.instagram.com/sahil_sing_h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diwakar-kumar-184949182" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sahil-singh-aa6a56249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwakar-kumar-184949182" height="30" width="40" /></a>
 
