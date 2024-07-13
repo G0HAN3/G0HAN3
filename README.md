@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=G0HAN3&label=Profile%20views&color=0e75b6&style=flat" alt="G0HAN3" /> </p>
 
 # 💫 About Me:
-• Interested in Web Development and Blockchain Technology<br> • I specialize in crafting exceptional frontend webpages, seamlessly integrated with robust backend systems.<br> • Contact me on imsahil444@gmail.com
+#### • Interested in Web Development and Blockchain Technology<br> 
+#### • I specialize in crafting exceptional frontend webpages, seamlessly integrated with robust backend systems.<br> 
+#### • Contact me on imsahil444@gmail.com
 
 
 ## 🌐 Connect with me on:
@@ -43,7 +45,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
+# Activity:
 
 ![G0HAN3's Graph](https://github-readme-activity-graph.vercel.app/graph?username=G0HAN3&custom_title=SAHIL's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
