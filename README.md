@@ -3,17 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=G0HAN3&label=Profile%20views&color=0e75b6&style=flat" alt="G0HAN3" /> </p>
 
 # 💫 About Me:
-#### • Interested in Web Development and Blockchain Technology<br> 
-#### • I specialize in crafting exceptional frontend webpages, seamlessly integrated with robust backend systems.<br> 
-#### • Contact me on imsahil444@gmail.com
+#### • I specialize in creating impactful digital experiences in both frontend and backend development and also programming in Java.<br> 
+#### • [Portfolio](https://sahi1.netlify.app/)    • Contact me on imsahil444@gmail.com
 
-
+<!--
 # 🌐 Connect with me on:
 <a href="https://www.instagram.com/sahil_sing_h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diwakar-kumar-184949182" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sahil-singh-aa6a56249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diwakar-kumar-184949182" height="30" width="40" /></a>
 
 <br>
-
+-->
 
 # 💻 Tech Stack:
   #### Languages : ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
@@ -33,6 +32,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+ <!-- 
 # 📊 GitHub Stats:
 <div align="center">
 
@@ -44,6 +44,7 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+-->
 
 # Activity:
 
